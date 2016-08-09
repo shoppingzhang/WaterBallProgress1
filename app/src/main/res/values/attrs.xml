@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="WaterBallView">
+        <attr name="progress" format="integer"></attr>
+
+        <attr name="max" format="integer"></attr>
+        <attr name="fillColor" format="color">
+
+        </attr>
+    </declare-styleable>
+</resources>
